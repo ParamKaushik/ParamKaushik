@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Param Kaushik
+
+- B.Tech CSE (AI/ML), VIT Bhopal  
+- 1st Year  
+- Interested in Data Analysis and Machine Learning  
+- Looking forward to learning and building projects  
+
 
 <!--
 **ParamKaushik/ParamKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
